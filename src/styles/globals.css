@@ -10,6 +10,11 @@ body {
   overflow-x: hidden;
 }
 
+body {
+  background-color: #F8EDE3;
+  color: #4D455D;
+}
+
 a {
   color: inherit;
   text-decoration: none;
